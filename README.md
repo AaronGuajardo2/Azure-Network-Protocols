@@ -71,7 +71,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
   
-  - Observe Your Virtual Network within Network Watcher or the Vnet topology
+  - Observe Your Virtual Network within Network Watcher or the Windows-vnet topology
 
 </p>
 <br />
