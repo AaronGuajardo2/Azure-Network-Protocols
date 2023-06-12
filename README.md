@@ -63,7 +63,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 
-- Create a Linux (Ubuntu) VM2
+- Create a Linux (Ubuntu) virtual machine(VM2)
   - Virtual Machine -> create -> select the resource group we just created -> name your machine (VM2) -> Select a region (same as your resource group) -> Select the Ubuntu image -> select at least 2 cpus -> switch from SSH to password -> user: Labuser1 -> enter a password -> Review and create -> Create
   
 <p>
