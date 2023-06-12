@@ -81,13 +81,15 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 
+- Use Remote Desktop to connect to your Windows virtual machine (VM1)
+      - Login with credentials created earlier. User:Labuser1 and corresponding password
+
 <p>
 <img src="https://i.imgur.com/a3U3Hbo.png" height="90%" width="90%" alt="Disk Sanitization Steps"/>
 </p>
 <p>  
 
 - Observe ICMP Traffic
-  - Use Remote Desktop to connect to your Windows virtual machine (VM1)
   - Within your VM1, open a browser window, go to a search engine and type in "download Wireshark" and follow install steps
     - [WireShark](https://www.wireshark.org/)
   - Once installed open WireShark and filter for ICMP traffic only
