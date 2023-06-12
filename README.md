@@ -88,7 +88,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 - Observe ICMP Traffic
   - Use Remote Desktop to connect to your Windows virtual machine (VM1)
-  - Within your VM1, open a browser window go to a search engine and type in "download Wireshark" and follow install steps
+  - Within your VM1, open a browser window, go to a search engine and type in "download Wireshark" and follow install steps
     - [WireShark](https://www.wireshark.org/)
   - Once installed open WireShark and filter for ICMP traffic only
   - From the VM1, open command line or Powershell(Powershell in this case) and attempt to ping a public website (www.google.com) and observe the traffic in Wireshark
