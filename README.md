@@ -49,7 +49,7 @@ In this tutorial, we will observe various network traffic to and from two differ
 <p>
 
 - Create a Windows 10 Virtual Machine (VM1)
-  - Virtual Machine -> create -> select the resource group we just created -> name your machine (VM1) -> Select a region (make sure its the same as resource group) -> Select the Windows 10 image -> select at least 2 cpus -> user: Labuser1 -> create a password -> check the box for Liscense Agreement -> Review and create -> Create
+  - Virtual Machine -> create -> select the resource group we just created -> name your machine (VM1) -> Select a region (make sure it's the same as resource group) -> Select the Windows 10 image -> select at least 2 cpus -> user: Labuser1 -> create a password -> check the box for Liscense Agreement -> Review and create -> Create
 
 </p>
 <br /> 
@@ -91,7 +91,7 @@ In this tutorial, we will observe various network traffic to and from two differ
 
 - Observe ICMP Traffic
   - Within your VM1, open a browser window, go to a search engine and type in "download Wireshark" and follow install steps
-    - [WireShark](https://www.wireshark.org/)
+    - [Wireshark](https://www.wireshark.org/)
   - Once installed open WireShark and filter for ICMP traffic only
   - From the VM1, open command line or Powershell(Powershell in this case) and attempt to ping a public website (www.google.com) and observe the traffic in Wireshark
   
