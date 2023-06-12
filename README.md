@@ -37,7 +37,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <p>
 
 - Create a Resource Group
-  - Resource Group -> create -> name the group -> region: pick one closest to your location for optimal performance and cost efficiency -> Review and Create -> Create
+  - Resource Group -> create -> name the group -> region: pick the one closest to your location for optimal performance and cost efficiency -> Review and Create -> Create
 
 <p>
 <img src="https://i.imgur.com/5FK3Oxr.png" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
