@@ -48,7 +48,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 </p>
 <p>
 
-- Create a Windows 10 Virtual Machine (VM)
+- Create a Windows 10 Virtual Machine (VM1)
   - Virtual Machine -> create -> select the resource group we just created -> name your machine (VM1) -> Select a region (make sure its the same as resource group) -> Select the Windows 10 image -> select at least 2 cpus -> user: Labuser1 -> create a password -> check the box for Liscense Agreement -> Review and create -> Create
 
 </p>
