@@ -27,7 +27,7 @@ In this tutorial, we will observe various network traffic to and from two differ
 - Use Wireshark protocol analyzer to observe the following protcol traffic
       - ICMP, SSH, DHCP, DNS, RDP
 - Within Virtual machine use power shell or command line to initiate ping requests and other actions to be observed by Wireshark
-- ( in this demonstration power shell was used)
+- (in this demonstration power shell was used)
 
 <h2>Actions and Observations</h2>
 
