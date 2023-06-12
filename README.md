@@ -23,10 +23,10 @@ In this tutorial, we will observe various network traffic to and from two differ
 <h2>High-Level Steps</h2>
 
 - Create a Resource Group and Virtual machines in Azure environment
-- Use Remote Desktop to access Windows VM and install wireshark software
+- Use Remote Desktop to access Windows VM and install Wireshark software
 - Use Wireshark protocol analyzer to observe the following protcol traffic
       - ICMP, SSH, DHCP, DNS, RDP
-- Within Virtual machine use power shell or command line to initiate ping requests and other actions to be observed by wireshark
+- Within Virtual machine use power shell or command line to initiate ping requests and other actions to be observed by Wireshark
 - ( in this demonstration power shell was used)
 
 <h2>Actions and Observations</h2>
