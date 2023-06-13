@@ -123,6 +123,8 @@ In this tutorial, we will observe various network traffic to and from two differ
 - Open the Network Security Group your Ubuntu VM(VM2) is using and disable incoming ICMP traffic
   - Azure portal -> search Network Security Group -> Inbound Security Rules -> Add (a rule) -> click ICMP -> Deny -> set priority to 200 -> name the rule (Deny_IMCP_Ping_From_Anywhere) -> Add
 
+(Priority value needs to be lower than 300 so it can supersede all other rules)
+
 </p>
 <br />
 
@@ -190,7 +192,7 @@ In this tutorial, we will observe various network traffic to and from two differ
 
 - Observe RDP Traffic
   -  Go back to WireShark and filter for RDP traffic only (tcp.prt==3389)
-  - Observe the seemingly never ending spam of traffic.This is because RDP is an active connection and is continuosly transmitting data between the host and remote computer.
+  - Observe the seemingly never ending spam of traffic.This is because RDP is an active connection and is continuously transmitting data between the host and remote computer.
 
 </p>
 <br />
