@@ -12,7 +12,7 @@ In this tutorial, we will observe various network traffic to and from two differ
 - Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Various Command-Line Tools (Powershell)
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols (SSH, RDP, DNS, DHCP, ICMP)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
